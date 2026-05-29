@@ -1,0 +1,6 @@
+{
+  "name": "Loja de Smartphones e Acessórios",
+  "description": "Landing page interativa de alta performance para smartphones premium e acessórios de última geração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
